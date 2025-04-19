@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1686359638 source:f:\trabajo practico lab\main.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	"rlutil.h"
+	<time.h>
+	<string>
+	"graficos.h"
+
+1686271624 f:\trabajo practico lab\funciones.h
+	<ctime>
+	<string.h>
+	"rlutil.h"
+
+1685997070 f:\trabajo practico lab\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686359638 f:\trabajo practico lab\graficos.h
+	"rlutil.h"
+
+1686776706 source:f:\debernardinis matias alejo\main.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	"rlutil.h"
+	<time.h>
+	<string>
+	"graficos.h"
+
+1686271624 f:\debernardinis matias alejo\funciones.h
+	<ctime>
+	<string.h>
+	"rlutil.h"
+
+1685997070 f:\debernardinis matias alejo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686776706 f:\debernardinis matias alejo\graficos.h
+	"rlutil.h"
+
